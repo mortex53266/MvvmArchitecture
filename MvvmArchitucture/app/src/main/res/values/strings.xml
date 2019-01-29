@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Giftbon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="enter_your_full_number">Login</string>
+    <string name="pls_enter_pin">Enter Verification Pin</string>
+
+    <string name="default_notification_channel_id">fcm_channel</string>
+    <string name="app_google_play_store_link">google_play_link</string>
+    <string name="app_market_link">market_link</string>
+
+</resources>
